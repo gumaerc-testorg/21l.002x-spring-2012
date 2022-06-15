@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, class rules, assignments, textbooks, grading, a statement on plagiarism,
+  and the schedule of lecture topics and key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -336,7 +339,7 @@ Second paper due
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Kincaid, Jamaica. [_Girl._ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.saginaw-twp.k12.mi.us/view/8490.pdf)
+Kincaid, Jamaica. [_Girl._ (PDF)](http://www.saginaw-twp.k12.mi.us/view/8490.pdf)
 {{< tdclose >}}
 {{< tdopen >}}
  
