@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the writing assignments
+  of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 73fee268-4d27-7123-715a-4628c4f577c8
 ---
 
-[Advice on Writing]({{< baseurl >}}/pages/assignments/advice-on-writing)
+{{% resource_link 83beae85-bdc2-d816-1ff5-6383077687e5 "Advice on Writing" %}}
 ------------------------------------------------------------------------
 
 General

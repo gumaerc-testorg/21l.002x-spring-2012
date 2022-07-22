@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This page provides advice on writing essays for this course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 73fee268-4d27-7123-715a-4628c4f577c8
 title: Advice on Writing
 uid: 83beae85-bdc2-d816-1ff5-6383077687e5
