@@ -17,7 +17,7 @@ General
 
 For each essay, pick one of the questions and respond to it in an essay of 7-8 pages. Make sure to have a thesis, and to flesh out your argument and support it with examples from the text. Refer to the "Advice for Writing" section for guidelines.
 
-Papers must be submitted in a 12-type font (preferably Times New Roman or Arial); your essays must also be double-spaced. Use the MLA guidelines for citation (For more on the MLA format, see [MLA Formatting and Style Guide](http://owl.english.purdue.edu/owl/resource/747/01/)).
+Papers must be submitted in a 12-type font (preferably Times New Roman or Arial); your essays must also be double-spaced. Use the MLA guidelines for citation (For more on the MLA format, see {{% resource_link "0599af6e-f84c-4aaf-9fc9-cd21ae7c4dd5" "MLA Formatting and Style Guide" %}}).
 
 For essays 1 and 2, you have **two** days to decide if you'd like to revise your essay, after it is returned. You will then have a week to submit your revision. You **must** revise at least one of your first two papers.
 
